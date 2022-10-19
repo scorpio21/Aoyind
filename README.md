@@ -1,12 +1,14 @@
-# AoYind 3 - Servidor
+# AoYind 3
 
 Importante, no bajar el codigo con el boton Download as a ZIP de github por que lo descarga mal, muchos archivos por el encoding quedan corruptos.
 
-Tenes que bajar el codigo con un cliente de git, con el cliente original de la linea de comandos seria:
+Tienes que bajar el codigo con un cliente de git, con el cliente original de la linea de comandos seria:
+```
+git clone https://github.com/scorpio21/Aoyind.git
+```
 ```
 git clone https://github.com/YindSoft/aoyind3-server.git
 ```
-
 ## Como utilizar el servidor del juego.
 
 En este repositorio solo se encuentra los codigos de fuente del servidor, por lo tanto para poder ejecutarlo correctamente es necesario tambien clonar el repo de resources para copiar los archivos necesarios.
@@ -14,9 +16,11 @@ Esto esta hecho así para poder separar bien los cambios de los recursos del jue
 
 Pueden clonar el repo de recursos desde aquí.
 ```
+git clone https://github.com/scorpio21/Aoyind.git
+```
+```
 git clone https://github.com/YindSoft/aoyind3-resources.git
 ```
-
 
 Para el servidor es necesario copiar los siguientes archivos/carpetas:
 ```
