@@ -1,0 +1,1 @@
+anim1:arriba anim2:derecha anim3:abajo anim4: izquierda
